@@ -10,6 +10,8 @@ namespace ConsoleApp32
     {
         static void Main(string[] args)
         {
+            StudentDetails details = new StudentDetails();
+            details.PrintData();
         }
     }
 }
